@@ -1,0 +1,27 @@
+pre.poems {
+color: #1F1F20;
+font-family: Kaiti;
+font-size: 22px;
+margin-left: 20px;
+letter-spacing: 0px;
+line-height: 27px;
+}
+
+p.titles {
+font-size: 22px;
+color: #567EBB;
+font-family: Kaiti;
+font-weight: bold;
+margin-left: 20px;
+letter-spacing: 1px;
+line-height: 27px;
+}
+
+span.subtitle {
+font-size: 22px;
+color: #567EBB;
+font-family: Kaiti;
+font-weight: bold;
+letter-spacing: 1px;
+line-height: 27px;
+}
