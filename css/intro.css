@@ -1,0 +1,30 @@
+div.intro {
+	width: 23%;
+	length: auto;
+	height: auto;
+	float: left;
+	margin-left: 5%;
+	position: fixed;
+	margin-top: 5%;
+}
+
+legend.introh {
+	color: black;
+	background-color: transparent;
+	font-size: 28px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: impact;
+}
+
+span.introp {
+	font-family: bookman;
+	color: black;
+		font-size: 20px;
+}
+
+fieldset.intro {
+	background-color: white;
+	border-width: 1px;
+}
+

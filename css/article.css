@@ -1,0 +1,31 @@
+div.article {
+	width: 60%;
+	height: auto;
+	length: auto;
+	margin-right: 7%;
+	background-color: transparent;
+	float: right;
+	margin-top: 5%;
+}
+
+fieldset.article {
+	font-family: bookman;
+	background-color: white;
+	text-align: left;
+	border-width: 1px;
+	font-size: 20px;
+	padding-left: 6%;
+	padding-right: 6%;
+}
+
+legend.h {
+	background-color: transparent;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: impact;
+	text-align: left;
+	font-size: 28px;
+}
+
+span.p {
+}

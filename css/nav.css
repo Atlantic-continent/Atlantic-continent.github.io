@@ -1,0 +1,19 @@
+nav {
+background-color: #1F1F20;
+height: 6%;
+width: 100%;
+position: fixed;
+z-index: 999;
+top: 1%;
+left: 0%;
+opacity: 0.7;
+}
+
+h#titlehead {
+font-size: 28px;
+color: #F3F1ED;
+float: left;
+margin-left: 3%;
+margin-top: 8px;
+font-family: "impact";
+}
