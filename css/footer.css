@@ -1,0 +1,10 @@
+footer {
+width: 100%;
+height: auto;
+length: auto;
+background-color: black;
+}
+
+p.footer {
+color: white;
+}
