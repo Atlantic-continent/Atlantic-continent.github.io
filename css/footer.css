@@ -3,6 +3,7 @@ width: 100%;
 height: auto;
 length: auto;
 background-color: black;
+position: absolute;
 }
 
 p.footer {
