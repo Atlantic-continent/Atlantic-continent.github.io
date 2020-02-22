@@ -6,6 +6,7 @@ div.intro {
 	margin-left: 5%;
 	position: fixed;
 	margin-top: 5%;
+	box-shadow: 20px 20px 20px #8888
 }
 
 legend.introh {
@@ -25,6 +26,6 @@ span.introp {
 
 fieldset.intro {
 	background-color: white;
-	border-width: 1px;
+	border-width: 0px;
 }
 
